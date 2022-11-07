@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="400px" height="400px"  version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="Triangle" viewBox="0 0 10 10" refX="0" refY="5" markerUnits="strokeWidth" markerWidth="3" style="stroke-opacity:0%;fill:#aaaaaa;" markerHeight="2" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+    
+    <marker id="Arrow" viewBox="0 0 10 10" refX="5" refY="5" markerUnits="strokeWidth" markerWidth="1.8" style="stroke-opacity:0%;fill:#770000;" markerHeight="2" orient="auto">
+      <path d="M 0 4 L 6 4 L 4 1 L 10 5 L 4 9 L 6 6 L 0 6 z" />
+        <circle cx="5" cy="5" r="5" />
+      </marker>
+    
+    <marker id="TriangleRed" viewBox="0 0 10 10" refX="0" refY="5" markerUnits="strokeWidth" markerWidth="3" style="stroke-opacity:0%;fill:#CC0000;" markerHeight="2" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+    
+    <marker id="ArrowRed" viewBox="0 0 10 10" refX="5" refY="5" markerUnits="strokeWidth" markerWidth="1.8" style="stroke-opacity:0%;fill:#CC0000;" markerHeight="2" orient="auto">
+      <path d="M 0 4 L 6 4 L 4 1 L 10 5 L 4 9 L 6 6 L 0 6 z" />
+        <circle cx="5" cy="5" r="5" />
+      </marker>
+    
+  </defs>
+  
+  <path style="fill:#ffffff; fill-opacity:100%; fill-rule:evenodd; stroke-width:0;" d="M 0 0 L 400px 0 L 400px 400px L 0 400px L 0 0" />
+
+  <g transform="scale(3.6697247706422 3.6697247706422)">
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M16.58 20.08c1.17 0.92 1.2 2.91 1.2 3.83c0 6.84-0.36 21.59-0.36 30.58c0 10.84-1.61 23.83-8.33 36.26"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M17.08 21.25c2.04-0.06 12.98-2.54 14.5-2.67c2.72-0.22 3.12 0.79 3.12 2.13c0 3.16-0.51 45.28-0.51 63.24c0 12.35-4.54 5.29-6.28 3.8"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M19.08 40.25c3.98-0.13 11.99-1.19 15.49-1.2"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M18.58 58.75c2.89-0.08 10.08-1.23 14-1.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M42.42 23.92c1.25 0.44 6.01 0.39 6.83 0.33c14.28-1.05 28.05-3.76 38.33-4.17c1.04-0.04 4.73-0.29 6.67 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M63.92 10.08c0.4 0.63 0.42 2.87 0.17 4.17C61.07 29.8 53.61 46.16 39.23 56.86"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.92 21.92c5.43 5.97 18.29 21.71 23.71 25.71c1.85 1.36 2.45 1.41 3.29 1.54"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M57.42 42.92c0.35 0.27 2.97 0.53 3.33 0.5c3.79-0.36 10.41-0.72 15-1.83c0.58-0.14 2.7 0.36 3 0.5"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M44.58 58.92c0.79 0.33 3.01 0.79 3.8 0.71c4.95-0.5 32.55-3.59 41.37-4.05c1.32-0.07 3.17 0.67 3.83 0.83"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M61.38 59.24c0.32 0.85 0.27 1.33 0.06 2.68c-0.24 1.55-1.51 4.34-3.45 7.31c-1.22 1.87-0.32 3.17 1.95 2.73c5.77-1.12 14.06-1.6 19.47-2.53c2.63-0.45 4.12 1.27 3.66 3.27c-1.5 6.55-4.83 13.82-9.45 20.93c-2"></path>
+
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 2.7pt; stroke-linejoin:round; stroke-linecap:round;" d="M16.58 20.08c1.17 0.92 1.2 2.91 1.2 3.83c0 6.84-0.36 21.59-0.36 30.58c0 10.84-1.61 23.83-8.33 36.26" pathLength="100" stroke-dashoffset="100" stroke-dasharray="100 105"><animate id="dashAnim1" attributeName="stroke-dashoffset" from="100" to="0" dur="1s" calcMode="linear" fill="freeze"/></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 2.7pt; stroke-linejoin:round; stroke-linecap:round;" d="M17.08 21.25c2.04-0.06 12.98-2.54 14.5-2.67c2.72-0.22 3.12 0.79 3.12 2.13c0 3.16-0.51 45.28-0.51 63.24c0 12.35-4.54 5.29-6.28 3.8" pathLength="100" stroke-dashoffset="100" stroke-dasharray="100 105"><animate id="dashAnim2" attributeName="stroke-dashoffset" from="100" to="0" dur="1s" calcMode="linear" begin="dashAnim1.end" fill="freeze"/></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 2.7pt; stroke-linejoin:round; stroke-linecap:round;" d="M19.08 40.25c3.98-0.13 11.99-1.19 15.49-1.2" pathLength="100" stroke-dashoffset="100" stroke-dasharray="100 105"><animate id="dashAnim3" attributeName="stroke-dashoffset" from="100" to="0" dur="1s" calcMode="linear" begin="dashAnim2.end" fill="freeze"/></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 2.7pt; stroke-linejoin:round; stroke-linecap:round;" d="M18.58 58.75c2.89-0.08 10.08-1.23 14-1.67" pathLength="100" stroke-dashoffset="100" stroke-dasharray="100 105"><animate id="dashAnim4" attributeName="stroke-dashoffset" from="100" to="0" dur="1s" calcMode="linear" begin="dashAnim3.end" fill="freeze"/></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 2.7pt; stroke-linejoin:round; stroke-linecap:round;" d="M42.42 23.92c1.25 0.44 6.01 0.39 6.83 0.33c14.28-1.05 28.05-3.76 38.33-4.17c1.04-0.04 4.73-0.29 6.67 0.67" pathLength="100" stroke-dashoffset="100" stroke-dasharray="100 105"><animate id="dashAnim5" attributeName="stroke-dashoffset" from="100" to="0" dur="1s" calcMode="linear" begin="dashAnim4.end" fill="freeze"/></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 2.7pt; stroke-linejoin:round; stroke-linecap:round;" d="M63.92 10.08c0.4 0.63 0.42 2.87 0.17 4.17C61.07 29.8 53.61 46.16 39.23 56.86" pathLength="100" stroke-dashoffset="100" stroke-dasharray="100 105"><animate id="dashAnim6" attributeName="stroke-dashoffset" from="100" to="0" dur="1s" calcMode="linear" begin="dashAnim5.end" fill="freeze"/></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 2.7pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.92 21.92c5.43 5.97 18.29 21.71 23.71 25.71c1.85 1.36 2.45 1.41 3.29 1.54" pathLength="100" stroke-dashoffset="100" stroke-dasharray="100 105"><animate id="dashAnim7" attributeName="stroke-dashoffset" from="100" to="0" dur="1s" calcMode="linear" begin="dashAnim6.end" fill="freeze"/></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 2.7pt; stroke-linejoin:round; stroke-linecap:round;" d="M57.42 42.92c0.35 0.27 2.97 0.53 3.33 0.5c3.79-0.36 10.41-0.72 15-1.83c0.58-0.14 2.7 0.36 3 0.5" pathLength="100" stroke-dashoffset="100" stroke-dasharray="100 105"><animate id="dashAnim8" attributeName="stroke-dashoffset" from="100" to="0" dur="1s" calcMode="linear" begin="dashAnim7.end" fill="freeze"/></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 2.7pt; stroke-linejoin:round; stroke-linecap:round;" d="M44.58 58.92c0.79 0.33 3.01 0.79 3.8 0.71c4.95-0.5 32.55-3.59 41.37-4.05c1.32-0.07 3.17 0.67 3.83 0.83" pathLength="100" stroke-dashoffset="100" stroke-dasharray="100 105"><animate id="dashAnim9" attributeName="stroke-dashoffset" from="100" to="0" dur="1s" calcMode="linear" begin="dashAnim8.end" fill="freeze"/></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 2.7pt; stroke-linejoin:round; stroke-linecap:round;" d="M61.38 59.24c0.32 0.85 0.27 1.33 0.06 2.68c-0.24 1.55-1.51 4.34-3.45 7.31c-1.22 1.87-0.32 3.17 1.95 2.73c5.77-1.12 14.06-1.6 19.47-2.53c2.63-0.45 4.12 1.27 3.66 3.27c-1.5 6.55-4.83 13.82-9.45 20.93c-2" pathLength="100" stroke-dashoffset="100" stroke-dasharray="100 105"><animate id="dashAnim10" attributeName="stroke-dashoffset" from="100" to="0" dur="1s" calcMode="linear" begin="dashAnim9.end" fill="freeze"/></path>
+
+</g>
+
+</svg>  
+          

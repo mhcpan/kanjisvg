@@ -1,0 +1,590 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="751" height="601"  version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="Triangle" viewBox="0 0 10 10" refX="0" refY="5" markerUnits="strokeWidth" markerWidth="3" style="stroke-opacity:0%;fill:#aaaaaa;" markerHeight="2" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+    
+    <marker id="Arrow" viewBox="0 0 10 10" refX="5" refY="5" markerUnits="strokeWidth" markerWidth="1.8" style="stroke-opacity:0%;fill:#770000;" markerHeight="2" orient="auto">
+      <path d="M 0 4 L 6 4 L 4 1 L 10 5 L 4 9 L 6 6 L 0 6 z" />
+        <circle cx="5" cy="5" r="5" />
+      </marker>
+    
+    <marker id="TriangleRed" viewBox="0 0 10 10" refX="0" refY="5" markerUnits="strokeWidth" markerWidth="3" style="stroke-opacity:0%;fill:#CC0000;" markerHeight="2" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+    
+    <marker id="ArrowRed" viewBox="0 0 10 10" refX="5" refY="5" markerUnits="strokeWidth" markerWidth="1.8" style="stroke-opacity:0%;fill:#CC0000;" markerHeight="2" orient="auto">
+      <path d="M 0 4 L 6 4 L 4 1 L 10 5 L 4 9 L 6 6 L 0 6 z" />
+        <circle cx="5" cy="5" r="5" />
+      </marker>
+    
+  </defs>
+  
+  <path style="fill:#ffffff; fill-opacity:100%; fill-rule:evenodd; stroke-width:0;" d="M 0 0 L 751 0 L 751 601 L 0 601 L 0 0" />
+
+  <g transform="scale(1.3761467889908 1.3761467889908) translate(0, 0)">
+<path style="fill:none; fill-rule:evenodd; stroke:#aaaaaa;  stroke-width:1pt; stroke-linecap:round;" d="m 109 0 L 0 0 L 0 109 L 109 109 L 109 0"></path><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M24.88 62.47c2.7-0.44 26.46-2.23 28.69-2.41"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M26.37 74.06c5.98-0.48 16.94-1.52 25.2-2.31"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20.94 84.32c0 4.95-4.02 12.27-5.07 13.68"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.6 83.33c1.56 2.32 3.04 8.69 3.44 12.29"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M41.98 81.44c1.54 1.98 3.97 8.14 4.36 11.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M53.3 79.87c1.83 1.9 4.74 7.82 5.2 10.78"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.27 38.58c0.85 0.76 1.52 1.64 1.52 4.14c0 15.28-0.52 29.96-0.52 34.05"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M86.96 30.33c0.88 0.78 1.5 1.7 1.57 4.3c0.36 12.46-0.23 54.49-0.23 58.73c0 11.25-6.46 1.28-7.8 0.21"></path>
+
+<text x="5" y="20" font-size="20" fill="#999999">1</text><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#CC0000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67" marker-end="url(#TriangleRed)" marker-start="url(#ArrowRed)" ></path>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</g><g transform="scale(1.3761467889908 1.3761467889908) translate(109, 0)">
+<path style="fill:none; fill-rule:evenodd; stroke:#aaaaaa;  stroke-width:1pt; stroke-linecap:round;" d="m 109 0 L 0 0 L 0 109 L 109 109 L 109 0"></path><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M24.88 62.47c2.7-0.44 26.46-2.23 28.69-2.41"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M26.37 74.06c5.98-0.48 16.94-1.52 25.2-2.31"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20.94 84.32c0 4.95-4.02 12.27-5.07 13.68"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.6 83.33c1.56 2.32 3.04 8.69 3.44 12.29"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M41.98 81.44c1.54 1.98 3.97 8.14 4.36 11.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M53.3 79.87c1.83 1.9 4.74 7.82 5.2 10.78"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.27 38.58c0.85 0.76 1.52 1.64 1.52 4.14c0 15.28-0.52 29.96-0.52 34.05"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M86.96 30.33c0.88 0.78 1.5 1.7 1.57 4.3c0.36 12.46-0.23 54.49-0.23 58.73c0 11.25-6.46 1.28-7.8 0.21"></path>
+
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<text x="5" y="20" font-size="20" fill="#999999">2</text><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#CC0000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48" marker-end="url(#TriangleRed)" marker-start="url(#ArrowRed)" ></path>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</g><g transform="scale(1.3761467889908 1.3761467889908) translate(218, 0)">
+<path style="fill:none; fill-rule:evenodd; stroke:#aaaaaa;  stroke-width:1pt; stroke-linecap:round;" d="m 109 0 L 0 0 L 0 109 L 109 109 L 109 0"></path><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M24.88 62.47c2.7-0.44 26.46-2.23 28.69-2.41"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M26.37 74.06c5.98-0.48 16.94-1.52 25.2-2.31"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20.94 84.32c0 4.95-4.02 12.27-5.07 13.68"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.6 83.33c1.56 2.32 3.04 8.69 3.44 12.29"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M41.98 81.44c1.54 1.98 3.97 8.14 4.36 11.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M53.3 79.87c1.83 1.9 4.74 7.82 5.2 10.78"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.27 38.58c0.85 0.76 1.52 1.64 1.52 4.14c0 15.28-0.52 29.96-0.52 34.05"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M86.96 30.33c0.88 0.78 1.5 1.7 1.57 4.3c0.36 12.46-0.23 54.49-0.23 58.73c0 11.25-6.46 1.28-7.8 0.21"></path>
+
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<text x="5" y="20" font-size="20" fill="#999999">3</text><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#CC0000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01" marker-end="url(#TriangleRed)" marker-start="url(#ArrowRed)" ></path>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</g><g transform="scale(1.3761467889908 1.3761467889908) translate(327, 0)">
+<path style="fill:none; fill-rule:evenodd; stroke:#aaaaaa;  stroke-width:1pt; stroke-linecap:round;" d="m 109 0 L 0 0 L 0 109 L 109 109 L 109 0"></path><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M24.88 62.47c2.7-0.44 26.46-2.23 28.69-2.41"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M26.37 74.06c5.98-0.48 16.94-1.52 25.2-2.31"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20.94 84.32c0 4.95-4.02 12.27-5.07 13.68"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.6 83.33c1.56 2.32 3.04 8.69 3.44 12.29"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M41.98 81.44c1.54 1.98 3.97 8.14 4.36 11.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M53.3 79.87c1.83 1.9 4.74 7.82 5.2 10.78"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.27 38.58c0.85 0.76 1.52 1.64 1.52 4.14c0 15.28-0.52 29.96-0.52 34.05"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M86.96 30.33c0.88 0.78 1.5 1.7 1.57 4.3c0.36 12.46-0.23 54.49-0.23 58.73c0 11.25-6.46 1.28-7.8 0.21"></path>
+
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<text x="5" y="20" font-size="20" fill="#999999">4</text><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#CC0000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35" marker-end="url(#TriangleRed)" marker-start="url(#ArrowRed)" ></path>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</g><g transform="scale(1.3761467889908 1.3761467889908) translate(436, 0)">
+<path style="fill:none; fill-rule:evenodd; stroke:#aaaaaa;  stroke-width:1pt; stroke-linecap:round;" d="m 109 0 L 0 0 L 0 109 L 109 109 L 109 0"></path><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M24.88 62.47c2.7-0.44 26.46-2.23 28.69-2.41"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M26.37 74.06c5.98-0.48 16.94-1.52 25.2-2.31"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20.94 84.32c0 4.95-4.02 12.27-5.07 13.68"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.6 83.33c1.56 2.32 3.04 8.69 3.44 12.29"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M41.98 81.44c1.54 1.98 3.97 8.14 4.36 11.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M53.3 79.87c1.83 1.9 4.74 7.82 5.2 10.78"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.27 38.58c0.85 0.76 1.52 1.64 1.52 4.14c0 15.28-0.52 29.96-0.52 34.05"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M86.96 30.33c0.88 0.78 1.5 1.7 1.57 4.3c0.36 12.46-0.23 54.49-0.23 58.73c0 11.25-6.46 1.28-7.8 0.21"></path>
+
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<text x="5" y="20" font-size="20" fill="#999999">5</text><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#CC0000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49" marker-end="url(#TriangleRed)" marker-start="url(#ArrowRed)" ></path>
+
+
+
+
+
+
+
+
+
+
+
+
+</g><g transform="scale(1.3761467889908 1.3761467889908) translate(0, 109)">
+<path style="fill:none; fill-rule:evenodd; stroke:#aaaaaa;  stroke-width:1pt; stroke-linecap:round;" d="m 109 0 L 0 0 L 0 109 L 109 109 L 109 0"></path><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M24.88 62.47c2.7-0.44 26.46-2.23 28.69-2.41"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M26.37 74.06c5.98-0.48 16.94-1.52 25.2-2.31"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20.94 84.32c0 4.95-4.02 12.27-5.07 13.68"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.6 83.33c1.56 2.32 3.04 8.69 3.44 12.29"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M41.98 81.44c1.54 1.98 3.97 8.14 4.36 11.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M53.3 79.87c1.83 1.9 4.74 7.82 5.2 10.78"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.27 38.58c0.85 0.76 1.52 1.64 1.52 4.14c0 15.28-0.52 29.96-0.52 34.05"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M86.96 30.33c0.88 0.78 1.5 1.7 1.57 4.3c0.36 12.46-0.23 54.49-0.23 58.73c0 11.25-6.46 1.28-7.8 0.21"></path>
+
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<text x="5" y="20" font-size="20" fill="#999999">6</text><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#CC0000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21" marker-end="url(#TriangleRed)" marker-start="url(#ArrowRed)" ></path>
+
+
+
+
+
+
+
+
+
+
+
+</g><g transform="scale(1.3761467889908 1.3761467889908) translate(109, 109)">
+<path style="fill:none; fill-rule:evenodd; stroke:#aaaaaa;  stroke-width:1pt; stroke-linecap:round;" d="m 109 0 L 0 0 L 0 109 L 109 109 L 109 0"></path><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M24.88 62.47c2.7-0.44 26.46-2.23 28.69-2.41"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M26.37 74.06c5.98-0.48 16.94-1.52 25.2-2.31"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20.94 84.32c0 4.95-4.02 12.27-5.07 13.68"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.6 83.33c1.56 2.32 3.04 8.69 3.44 12.29"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M41.98 81.44c1.54 1.98 3.97 8.14 4.36 11.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M53.3 79.87c1.83 1.9 4.74 7.82 5.2 10.78"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.27 38.58c0.85 0.76 1.52 1.64 1.52 4.14c0 15.28-0.52 29.96-0.52 34.05"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M86.96 30.33c0.88 0.78 1.5 1.7 1.57 4.3c0.36 12.46-0.23 54.49-0.23 58.73c0 11.25-6.46 1.28-7.8 0.21"></path>
+
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<text x="5" y="20" font-size="20" fill="#999999">7</text><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#CC0000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95" marker-end="url(#TriangleRed)" marker-start="url(#ArrowRed)" ></path>
+
+
+
+
+
+
+
+
+
+
+</g><g transform="scale(1.3761467889908 1.3761467889908) translate(218, 109)">
+<path style="fill:none; fill-rule:evenodd; stroke:#aaaaaa;  stroke-width:1pt; stroke-linecap:round;" d="m 109 0 L 0 0 L 0 109 L 109 109 L 109 0"></path><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M24.88 62.47c2.7-0.44 26.46-2.23 28.69-2.41"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M26.37 74.06c5.98-0.48 16.94-1.52 25.2-2.31"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20.94 84.32c0 4.95-4.02 12.27-5.07 13.68"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.6 83.33c1.56 2.32 3.04 8.69 3.44 12.29"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M41.98 81.44c1.54 1.98 3.97 8.14 4.36 11.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M53.3 79.87c1.83 1.9 4.74 7.82 5.2 10.78"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.27 38.58c0.85 0.76 1.52 1.64 1.52 4.14c0 15.28-0.52 29.96-0.52 34.05"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M86.96 30.33c0.88 0.78 1.5 1.7 1.57 4.3c0.36 12.46-0.23 54.49-0.23 58.73c0 11.25-6.46 1.28-7.8 0.21"></path>
+
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<text x="5" y="20" font-size="20" fill="#999999">8</text><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#CC0000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67" marker-end="url(#TriangleRed)" marker-start="url(#ArrowRed)" ></path>
+
+
+
+
+
+
+
+
+
+</g><g transform="scale(1.3761467889908 1.3761467889908) translate(327, 109)">
+<path style="fill:none; fill-rule:evenodd; stroke:#aaaaaa;  stroke-width:1pt; stroke-linecap:round;" d="m 109 0 L 0 0 L 0 109 L 109 109 L 109 0"></path><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M24.88 62.47c2.7-0.44 26.46-2.23 28.69-2.41"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M26.37 74.06c5.98-0.48 16.94-1.52 25.2-2.31"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20.94 84.32c0 4.95-4.02 12.27-5.07 13.68"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.6 83.33c1.56 2.32 3.04 8.69 3.44 12.29"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M41.98 81.44c1.54 1.98 3.97 8.14 4.36 11.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M53.3 79.87c1.83 1.9 4.74 7.82 5.2 10.78"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.27 38.58c0.85 0.76 1.52 1.64 1.52 4.14c0 15.28-0.52 29.96-0.52 34.05"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M86.96 30.33c0.88 0.78 1.5 1.7 1.57 4.3c0.36 12.46-0.23 54.49-0.23 58.73c0 11.25-6.46 1.28-7.8 0.21"></path>
+
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67"></path>
+<text x="5" y="20" font-size="20" fill="#999999">9</text><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#CC0000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M24.88 62.47c2.7-0.44 26.46-2.23 28.69-2.41" marker-end="url(#TriangleRed)" marker-start="url(#ArrowRed)" ></path>
+
+
+
+
+
+
+
+
+</g><g transform="scale(1.3761467889908 1.3761467889908) translate(436, 109)">
+<path style="fill:none; fill-rule:evenodd; stroke:#aaaaaa;  stroke-width:1pt; stroke-linecap:round;" d="m 109 0 L 0 0 L 0 109 L 109 109 L 109 0"></path><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M24.88 62.47c2.7-0.44 26.46-2.23 28.69-2.41"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M26.37 74.06c5.98-0.48 16.94-1.52 25.2-2.31"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20.94 84.32c0 4.95-4.02 12.27-5.07 13.68"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.6 83.33c1.56 2.32 3.04 8.69 3.44 12.29"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M41.98 81.44c1.54 1.98 3.97 8.14 4.36 11.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M53.3 79.87c1.83 1.9 4.74 7.82 5.2 10.78"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.27 38.58c0.85 0.76 1.52 1.64 1.52 4.14c0 15.28-0.52 29.96-0.52 34.05"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M86.96 30.33c0.88 0.78 1.5 1.7 1.57 4.3c0.36 12.46-0.23 54.49-0.23 58.73c0 11.25-6.46 1.28-7.8 0.21"></path>
+
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M24.88 62.47c2.7-0.44 26.46-2.23 28.69-2.41"></path>
+<text x="5" y="20" font-size="20" fill="#999999">10</text><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#CC0000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M26.37 74.06c5.98-0.48 16.94-1.52 25.2-2.31" marker-end="url(#TriangleRed)" marker-start="url(#ArrowRed)" ></path>
+
+
+
+
+
+
+
+</g><g transform="scale(1.3761467889908 1.3761467889908) translate(0, 218)">
+<path style="fill:none; fill-rule:evenodd; stroke:#aaaaaa;  stroke-width:1pt; stroke-linecap:round;" d="m 109 0 L 0 0 L 0 109 L 109 109 L 109 0"></path><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M24.88 62.47c2.7-0.44 26.46-2.23 28.69-2.41"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M26.37 74.06c5.98-0.48 16.94-1.52 25.2-2.31"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20.94 84.32c0 4.95-4.02 12.27-5.07 13.68"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.6 83.33c1.56 2.32 3.04 8.69 3.44 12.29"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M41.98 81.44c1.54 1.98 3.97 8.14 4.36 11.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M53.3 79.87c1.83 1.9 4.74 7.82 5.2 10.78"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.27 38.58c0.85 0.76 1.52 1.64 1.52 4.14c0 15.28-0.52 29.96-0.52 34.05"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M86.96 30.33c0.88 0.78 1.5 1.7 1.57 4.3c0.36 12.46-0.23 54.49-0.23 58.73c0 11.25-6.46 1.28-7.8 0.21"></path>
+
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M24.88 62.47c2.7-0.44 26.46-2.23 28.69-2.41"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M26.37 74.06c5.98-0.48 16.94-1.52 25.2-2.31"></path>
+<text x="5" y="20" font-size="20" fill="#999999">11</text><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#CC0000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M20.94 84.32c0 4.95-4.02 12.27-5.07 13.68" marker-end="url(#TriangleRed)" marker-start="url(#ArrowRed)" ></path>
+
+
+
+
+
+
+</g><g transform="scale(1.3761467889908 1.3761467889908) translate(109, 218)">
+<path style="fill:none; fill-rule:evenodd; stroke:#aaaaaa;  stroke-width:1pt; stroke-linecap:round;" d="m 109 0 L 0 0 L 0 109 L 109 109 L 109 0"></path><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M24.88 62.47c2.7-0.44 26.46-2.23 28.69-2.41"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M26.37 74.06c5.98-0.48 16.94-1.52 25.2-2.31"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20.94 84.32c0 4.95-4.02 12.27-5.07 13.68"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.6 83.33c1.56 2.32 3.04 8.69 3.44 12.29"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M41.98 81.44c1.54 1.98 3.97 8.14 4.36 11.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M53.3 79.87c1.83 1.9 4.74 7.82 5.2 10.78"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.27 38.58c0.85 0.76 1.52 1.64 1.52 4.14c0 15.28-0.52 29.96-0.52 34.05"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M86.96 30.33c0.88 0.78 1.5 1.7 1.57 4.3c0.36 12.46-0.23 54.49-0.23 58.73c0 11.25-6.46 1.28-7.8 0.21"></path>
+
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M24.88 62.47c2.7-0.44 26.46-2.23 28.69-2.41"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M26.37 74.06c5.98-0.48 16.94-1.52 25.2-2.31"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M20.94 84.32c0 4.95-4.02 12.27-5.07 13.68"></path>
+<text x="5" y="20" font-size="20" fill="#999999">12</text><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#CC0000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.6 83.33c1.56 2.32 3.04 8.69 3.44 12.29" marker-end="url(#TriangleRed)" marker-start="url(#ArrowRed)" ></path>
+
+
+
+
+
+</g><g transform="scale(1.3761467889908 1.3761467889908) translate(218, 218)">
+<path style="fill:none; fill-rule:evenodd; stroke:#aaaaaa;  stroke-width:1pt; stroke-linecap:round;" d="m 109 0 L 0 0 L 0 109 L 109 109 L 109 0"></path><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M24.88 62.47c2.7-0.44 26.46-2.23 28.69-2.41"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M26.37 74.06c5.98-0.48 16.94-1.52 25.2-2.31"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20.94 84.32c0 4.95-4.02 12.27-5.07 13.68"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.6 83.33c1.56 2.32 3.04 8.69 3.44 12.29"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M41.98 81.44c1.54 1.98 3.97 8.14 4.36 11.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M53.3 79.87c1.83 1.9 4.74 7.82 5.2 10.78"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.27 38.58c0.85 0.76 1.52 1.64 1.52 4.14c0 15.28-0.52 29.96-0.52 34.05"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M86.96 30.33c0.88 0.78 1.5 1.7 1.57 4.3c0.36 12.46-0.23 54.49-0.23 58.73c0 11.25-6.46 1.28-7.8 0.21"></path>
+
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M24.88 62.47c2.7-0.44 26.46-2.23 28.69-2.41"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M26.37 74.06c5.98-0.48 16.94-1.52 25.2-2.31"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M20.94 84.32c0 4.95-4.02 12.27-5.07 13.68"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.6 83.33c1.56 2.32 3.04 8.69 3.44 12.29"></path>
+<text x="5" y="20" font-size="20" fill="#999999">13</text><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#CC0000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M41.98 81.44c1.54 1.98 3.97 8.14 4.36 11.21" marker-end="url(#TriangleRed)" marker-start="url(#ArrowRed)" ></path>
+
+
+
+
+</g><g transform="scale(1.3761467889908 1.3761467889908) translate(327, 218)">
+<path style="fill:none; fill-rule:evenodd; stroke:#aaaaaa;  stroke-width:1pt; stroke-linecap:round;" d="m 109 0 L 0 0 L 0 109 L 109 109 L 109 0"></path><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M24.88 62.47c2.7-0.44 26.46-2.23 28.69-2.41"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M26.37 74.06c5.98-0.48 16.94-1.52 25.2-2.31"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20.94 84.32c0 4.95-4.02 12.27-5.07 13.68"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.6 83.33c1.56 2.32 3.04 8.69 3.44 12.29"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M41.98 81.44c1.54 1.98 3.97 8.14 4.36 11.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M53.3 79.87c1.83 1.9 4.74 7.82 5.2 10.78"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.27 38.58c0.85 0.76 1.52 1.64 1.52 4.14c0 15.28-0.52 29.96-0.52 34.05"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M86.96 30.33c0.88 0.78 1.5 1.7 1.57 4.3c0.36 12.46-0.23 54.49-0.23 58.73c0 11.25-6.46 1.28-7.8 0.21"></path>
+
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M24.88 62.47c2.7-0.44 26.46-2.23 28.69-2.41"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M26.37 74.06c5.98-0.48 16.94-1.52 25.2-2.31"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M20.94 84.32c0 4.95-4.02 12.27-5.07 13.68"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.6 83.33c1.56 2.32 3.04 8.69 3.44 12.29"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M41.98 81.44c1.54 1.98 3.97 8.14 4.36 11.21"></path>
+<text x="5" y="20" font-size="20" fill="#999999">14</text><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#CC0000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M53.3 79.87c1.83 1.9 4.74 7.82 5.2 10.78" marker-end="url(#TriangleRed)" marker-start="url(#ArrowRed)" ></path>
+
+
+
+</g><g transform="scale(1.3761467889908 1.3761467889908) translate(436, 218)">
+<path style="fill:none; fill-rule:evenodd; stroke:#aaaaaa;  stroke-width:1pt; stroke-linecap:round;" d="m 109 0 L 0 0 L 0 109 L 109 109 L 109 0"></path><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M24.88 62.47c2.7-0.44 26.46-2.23 28.69-2.41"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M26.37 74.06c5.98-0.48 16.94-1.52 25.2-2.31"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20.94 84.32c0 4.95-4.02 12.27-5.07 13.68"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.6 83.33c1.56 2.32 3.04 8.69 3.44 12.29"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M41.98 81.44c1.54 1.98 3.97 8.14 4.36 11.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M53.3 79.87c1.83 1.9 4.74 7.82 5.2 10.78"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.27 38.58c0.85 0.76 1.52 1.64 1.52 4.14c0 15.28-0.52 29.96-0.52 34.05"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M86.96 30.33c0.88 0.78 1.5 1.7 1.57 4.3c0.36 12.46-0.23 54.49-0.23 58.73c0 11.25-6.46 1.28-7.8 0.21"></path>
+
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M24.88 62.47c2.7-0.44 26.46-2.23 28.69-2.41"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M26.37 74.06c5.98-0.48 16.94-1.52 25.2-2.31"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M20.94 84.32c0 4.95-4.02 12.27-5.07 13.68"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.6 83.33c1.56 2.32 3.04 8.69 3.44 12.29"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M41.98 81.44c1.54 1.98 3.97 8.14 4.36 11.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M53.3 79.87c1.83 1.9 4.74 7.82 5.2 10.78"></path>
+<text x="5" y="20" font-size="20" fill="#999999">15</text><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#CC0000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.27 38.58c0.85 0.76 1.52 1.64 1.52 4.14c0 15.28-0.52 29.96-0.52 34.05" marker-end="url(#TriangleRed)" marker-start="url(#ArrowRed)" ></path>
+
+
+</g><g transform="scale(1.3761467889908 1.3761467889908) translate(0, 327)">
+<path style="fill:none; fill-rule:evenodd; stroke:#aaaaaa;  stroke-width:1pt; stroke-linecap:round;" d="m 109 0 L 0 0 L 0 109 L 109 109 L 109 0"></path><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M24.88 62.47c2.7-0.44 26.46-2.23 28.69-2.41"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M26.37 74.06c5.98-0.48 16.94-1.52 25.2-2.31"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M20.94 84.32c0 4.95-4.02 12.27-5.07 13.68"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.6 83.33c1.56 2.32 3.04 8.69 3.44 12.29"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M41.98 81.44c1.54 1.98 3.97 8.14 4.36 11.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M53.3 79.87c1.83 1.9 4.74 7.82 5.2 10.78"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.27 38.58c0.85 0.76 1.52 1.64 1.52 4.14c0 15.28-0.52 29.96-0.52 34.05"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M86.96 30.33c0.88 0.78 1.5 1.7 1.57 4.3c0.36 12.46-0.23 54.49-0.23 58.73c0 11.25-6.46 1.28-7.8 0.21"></path>
+
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M20 21.49c1.69 0.69 3.65 0.82 5.35 0.69c15.52-1.25 42.6-2.71 60.5-2.8c2.81-0.02 4.5 0.33 5.91 0.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M40.17 11.25c1.45 1.18 1.91 1.54 2.06 2.27c1.44 6.81 1.86 13 2.27 15.48"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.22 10c0.98 0.87 1.13 2.21 0.81 3.49c-0.98 3.93-2.14 9.98-3.56 15.01"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.99 29.25c0.05 0.5 0.17 1.33-0.09 2.02c-1.73 4.57-7.35 13.62-15.92 19.35"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M29.33 36.93c1.61 0 13.56-2.04 15.26-2.28c1.45-0.21 2.34 1.35 1.68 2.35C44.25 40 41 44.25 39.24 49"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M22.22 50.26c0.24 0.43 0.77 2.16 0.9 2.71c1.07 4.5 2.69 14.82 3.35 23.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M23.33 51.34c8.3-1.13 21.46-3.38 27.72-3.53c2.7-0.06 3.95 0.94 3.82 3.12c-0.25 4.55-1.88 14.46-3.7 22.95"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M37.22 50.58c0.94 0.56 1.66 2.39 1.69 3.84c0.12 6.41 0.03 15.49 0.03 18.67"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M24.88 62.47c2.7-0.44 26.46-2.23 28.69-2.41"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M26.37 74.06c5.98-0.48 16.94-1.52 25.2-2.31"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M20.94 84.32c0 4.95-4.02 12.27-5.07 13.68"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M30.6 83.33c1.56 2.32 3.04 8.69 3.44 12.29"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M41.98 81.44c1.54 1.98 3.97 8.14 4.36 11.21"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M53.3 79.87c1.83 1.9 4.74 7.82 5.2 10.78"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M69.27 38.58c0.85 0.76 1.52 1.64 1.52 4.14c0 15.28-0.52 29.96-0.52 34.05"></path>
+<text x="5" y="20" font-size="20" fill="#999999">16</text><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#CC0000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M86.96 30.33c0.88 0.78 1.5 1.7 1.57 4.3c0.36 12.46-0.23 54.49-0.23 58.73c0 11.25-6.46 1.28-7.8 0.21" marker-end="url(#TriangleRed)" marker-start="url(#ArrowRed)" ></path>
+
+</g>
+
+</svg>  
+          

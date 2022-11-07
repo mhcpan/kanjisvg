@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="751" height="151"  version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="Triangle" viewBox="0 0 10 10" refX="0" refY="5" markerUnits="strokeWidth" markerWidth="3" style="stroke-opacity:0%;fill:#aaaaaa;" markerHeight="2" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+    
+    <marker id="Arrow" viewBox="0 0 10 10" refX="5" refY="5" markerUnits="strokeWidth" markerWidth="1.8" style="stroke-opacity:0%;fill:#770000;" markerHeight="2" orient="auto">
+      <path d="M 0 4 L 6 4 L 4 1 L 10 5 L 4 9 L 6 6 L 0 6 z" />
+        <circle cx="5" cy="5" r="5" />
+      </marker>
+    
+    <marker id="TriangleRed" viewBox="0 0 10 10" refX="0" refY="5" markerUnits="strokeWidth" markerWidth="3" style="stroke-opacity:0%;fill:#CC0000;" markerHeight="2" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+    
+    <marker id="ArrowRed" viewBox="0 0 10 10" refX="5" refY="5" markerUnits="strokeWidth" markerWidth="1.8" style="stroke-opacity:0%;fill:#CC0000;" markerHeight="2" orient="auto">
+      <path d="M 0 4 L 6 4 L 4 1 L 10 5 L 4 9 L 6 6 L 0 6 z" />
+        <circle cx="5" cy="5" r="5" />
+      </marker>
+    
+  </defs>
+  
+  <path style="fill:#ffffff; fill-opacity:100%; fill-rule:evenodd; stroke-width:0;" d="M 0 0 L 751 0 L 751 151 L 0 151 L 0 0" />
+
+  <g transform="scale(1.3761467889908 1.3761467889908) translate(0, 0)">
+<path style="fill:none; fill-rule:evenodd; stroke:#aaaaaa;  stroke-width:1pt; stroke-linecap:round;" d="m 109 0 L 0 0 L 0 109 L 109 109 L 109 0"></path><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M27.97 20.19C30.76 20.76 33.57 20.83 36.39 20.42C46.98 19.65 68.43 17.92 79.88 17.33C82.38 17.04 84.86 17.15 87.33 17.66"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M36.027035 29.002327C36.63294 29.740801 36.617442 30.948089 36.202703 31.897194C33.8193 37.443339 28.818986 48.888158 27.971296 50.896405C29.526062 51.996416 32.83576 51.913128 36.128742 51.475862C52."></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M65.42 21.38C66.58 22.54 66.82 24.12 66.82 26.37C66.82 45.46 66.78 82.25 66.78 88.75C66.78 101.75 58.73 90.72 57.06 89.08"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M63.97 48.73C63.68 50.34 63.08 51.8 62.15 53.1C55.58 63.23 37.77 79.16 13.25 90"></path>
+
+<text x="5" y="20" font-size="20" fill="#999999">1</text><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#CC0000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M27.97 20.19C30.76 20.76 33.57 20.83 36.39 20.42C46.98 19.65 68.43 17.92 79.88 17.33C82.38 17.04 84.86 17.15 87.33 17.66" marker-end="url(#TriangleRed)" marker-start="url(#ArrowRed)" ></path>
+
+
+
+
+</g><g transform="scale(1.3761467889908 1.3761467889908) translate(109, 0)">
+<path style="fill:none; fill-rule:evenodd; stroke:#aaaaaa;  stroke-width:1pt; stroke-linecap:round;" d="m 109 0 L 0 0 L 0 109 L 109 109 L 109 0"></path><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M27.97 20.19C30.76 20.76 33.57 20.83 36.39 20.42C46.98 19.65 68.43 17.92 79.88 17.33C82.38 17.04 84.86 17.15 87.33 17.66"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M36.027035 29.002327C36.63294 29.740801 36.617442 30.948089 36.202703 31.897194C33.8193 37.443339 28.818986 48.888158 27.971296 50.896405C29.526062 51.996416 32.83576 51.913128 36.128742 51.475862C52."></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M65.42 21.38C66.58 22.54 66.82 24.12 66.82 26.37C66.82 45.46 66.78 82.25 66.78 88.75C66.78 101.75 58.73 90.72 57.06 89.08"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M63.97 48.73C63.68 50.34 63.08 51.8 62.15 53.1C55.58 63.23 37.77 79.16 13.25 90"></path>
+
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M27.97 20.19C30.76 20.76 33.57 20.83 36.39 20.42C46.98 19.65 68.43 17.92 79.88 17.33C82.38 17.04 84.86 17.15 87.33 17.66"></path>
+<text x="5" y="20" font-size="20" fill="#999999">2</text><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#CC0000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M36.027035 29.002327C36.63294 29.740801 36.617442 30.948089 36.202703 31.897194C33.8193 37.443339 28.818986 48.888158 27.971296 50.896405C29.526062 51.996416 32.83576 51.913128 36.128742 51.475862C52." marker-end="url(#TriangleRed)" marker-start="url(#ArrowRed)" ></path>
+
+
+
+</g><g transform="scale(1.3761467889908 1.3761467889908) translate(218, 0)">
+<path style="fill:none; fill-rule:evenodd; stroke:#aaaaaa;  stroke-width:1pt; stroke-linecap:round;" d="m 109 0 L 0 0 L 0 109 L 109 109 L 109 0"></path><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M27.97 20.19C30.76 20.76 33.57 20.83 36.39 20.42C46.98 19.65 68.43 17.92 79.88 17.33C82.38 17.04 84.86 17.15 87.33 17.66"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M36.027035 29.002327C36.63294 29.740801 36.617442 30.948089 36.202703 31.897194C33.8193 37.443339 28.818986 48.888158 27.971296 50.896405C29.526062 51.996416 32.83576 51.913128 36.128742 51.475862C52."></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M65.42 21.38C66.58 22.54 66.82 24.12 66.82 26.37C66.82 45.46 66.78 82.25 66.78 88.75C66.78 101.75 58.73 90.72 57.06 89.08"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M63.97 48.73C63.68 50.34 63.08 51.8 62.15 53.1C55.58 63.23 37.77 79.16 13.25 90"></path>
+
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M27.97 20.19C30.76 20.76 33.57 20.83 36.39 20.42C46.98 19.65 68.43 17.92 79.88 17.33C82.38 17.04 84.86 17.15 87.33 17.66"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M36.027035 29.002327C36.63294 29.740801 36.617442 30.948089 36.202703 31.897194C33.8193 37.443339 28.818986 48.888158 27.971296 50.896405C29.526062 51.996416 32.83576 51.913128 36.128742 51.475862C52."></path>
+<text x="5" y="20" font-size="20" fill="#999999">3</text><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#CC0000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M65.42 21.38C66.58 22.54 66.82 24.12 66.82 26.37C66.82 45.46 66.78 82.25 66.78 88.75C66.78 101.75 58.73 90.72 57.06 89.08" marker-end="url(#TriangleRed)" marker-start="url(#ArrowRed)" ></path>
+
+
+</g><g transform="scale(1.3761467889908 1.3761467889908) translate(327, 0)">
+<path style="fill:none; fill-rule:evenodd; stroke:#aaaaaa;  stroke-width:1pt; stroke-linecap:round;" d="m 109 0 L 0 0 L 0 109 L 109 109 L 109 0"></path><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M27.97 20.19C30.76 20.76 33.57 20.83 36.39 20.42C46.98 19.65 68.43 17.92 79.88 17.33C82.38 17.04 84.86 17.15 87.33 17.66"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M36.027035 29.002327C36.63294 29.740801 36.617442 30.948089 36.202703 31.897194C33.8193 37.443339 28.818986 48.888158 27.971296 50.896405C29.526062 51.996416 32.83576 51.913128 36.128742 51.475862C52."></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M65.42 21.38C66.58 22.54 66.82 24.12 66.82 26.37C66.82 45.46 66.78 82.25 66.78 88.75C66.78 101.75 58.73 90.72 57.06 89.08"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M63.97 48.73C63.68 50.34 63.08 51.8 62.15 53.1C55.58 63.23 37.77 79.16 13.25 90"></path>
+
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M27.97 20.19C30.76 20.76 33.57 20.83 36.39 20.42C46.98 19.65 68.43 17.92 79.88 17.33C82.38 17.04 84.86 17.15 87.33 17.66"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M36.027035 29.002327C36.63294 29.740801 36.617442 30.948089 36.202703 31.897194C33.8193 37.443339 28.818986 48.888158 27.971296 50.896405C29.526062 51.996416 32.83576 51.913128 36.128742 51.475862C52."></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M65.42 21.38C66.58 22.54 66.82 24.12 66.82 26.37C66.82 45.46 66.78 82.25 66.78 88.75C66.78 101.75 58.73 90.72 57.06 89.08"></path>
+<text x="5" y="20" font-size="20" fill="#999999">4</text><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#CC0000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M63.97 48.73C63.68 50.34 63.08 51.8 62.15 53.1C55.58 63.23 37.77 79.16 13.25 90" marker-end="url(#TriangleRed)" marker-start="url(#ArrowRed)" ></path>
+
+</g>
+
+</svg>  
+          

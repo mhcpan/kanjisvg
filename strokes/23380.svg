@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="751" height="151"  version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="Triangle" viewBox="0 0 10 10" refX="0" refY="5" markerUnits="strokeWidth" markerWidth="3" style="stroke-opacity:0%;fill:#aaaaaa;" markerHeight="2" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+    
+    <marker id="Arrow" viewBox="0 0 10 10" refX="5" refY="5" markerUnits="strokeWidth" markerWidth="1.8" style="stroke-opacity:0%;fill:#770000;" markerHeight="2" orient="auto">
+      <path d="M 0 4 L 6 4 L 4 1 L 10 5 L 4 9 L 6 6 L 0 6 z" />
+        <circle cx="5" cy="5" r="5" />
+      </marker>
+    
+    <marker id="TriangleRed" viewBox="0 0 10 10" refX="0" refY="5" markerUnits="strokeWidth" markerWidth="3" style="stroke-opacity:0%;fill:#CC0000;" markerHeight="2" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+    
+    <marker id="ArrowRed" viewBox="0 0 10 10" refX="5" refY="5" markerUnits="strokeWidth" markerWidth="1.8" style="stroke-opacity:0%;fill:#CC0000;" markerHeight="2" orient="auto">
+      <path d="M 0 4 L 6 4 L 4 1 L 10 5 L 4 9 L 6 6 L 0 6 z" />
+        <circle cx="5" cy="5" r="5" />
+      </marker>
+    
+  </defs>
+  
+  <path style="fill:#ffffff; fill-opacity:100%; fill-rule:evenodd; stroke-width:0;" d="M 0 0 L 751 0 L 751 151 L 0 151 L 0 0" />
+
+  <g transform="scale(1.3761467889908 1.3761467889908) translate(0, 0)">
+<path style="fill:none; fill-rule:evenodd; stroke:#aaaaaa;  stroke-width:1pt; stroke-linecap:round;" d="m 109 0 L 0 0 L 0 109 L 109 109 L 109 0"></path><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M15.79 24.01c2.4 0.84 4.88 0.62 7.36 0.18c5.36-0.94 12.98-2.7 17.37-3.88c3.49-0.94 5.53 0.56 2.95 3.78c-2.17 2.7-7.61 10.05-13.22 15.64"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M27.6 40.38c8.9 7.37 16.65 24.37 9.9 43.12c-2.57 7.14-6 8-11.25 0.5"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M13.69 68.37c1.18 1 2.71 0.6 4.29-0.47C28.5 60.75 35.25 56 47.25 47.5"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M61.99 15.62c0.95 0.95 1.26 2 1.26 3.93c0 8.19 0.01 52.89 0.01 58.45c0 9.88 2.24 11.5 17.49 11.5C95 89.5 96.89 87 96.89 79.4"></path>
+
+<text x="5" y="20" font-size="20" fill="#999999">1</text><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#CC0000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M15.79 24.01c2.4 0.84 4.88 0.62 7.36 0.18c5.36-0.94 12.98-2.7 17.37-3.88c3.49-0.94 5.53 0.56 2.95 3.78c-2.17 2.7-7.61 10.05-13.22 15.64" marker-end="url(#TriangleRed)" marker-start="url(#ArrowRed)" ></path>
+
+
+
+
+</g><g transform="scale(1.3761467889908 1.3761467889908) translate(109, 0)">
+<path style="fill:none; fill-rule:evenodd; stroke:#aaaaaa;  stroke-width:1pt; stroke-linecap:round;" d="m 109 0 L 0 0 L 0 109 L 109 109 L 109 0"></path><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M15.79 24.01c2.4 0.84 4.88 0.62 7.36 0.18c5.36-0.94 12.98-2.7 17.37-3.88c3.49-0.94 5.53 0.56 2.95 3.78c-2.17 2.7-7.61 10.05-13.22 15.64"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M27.6 40.38c8.9 7.37 16.65 24.37 9.9 43.12c-2.57 7.14-6 8-11.25 0.5"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M13.69 68.37c1.18 1 2.71 0.6 4.29-0.47C28.5 60.75 35.25 56 47.25 47.5"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M61.99 15.62c0.95 0.95 1.26 2 1.26 3.93c0 8.19 0.01 52.89 0.01 58.45c0 9.88 2.24 11.5 17.49 11.5C95 89.5 96.89 87 96.89 79.4"></path>
+
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M15.79 24.01c2.4 0.84 4.88 0.62 7.36 0.18c5.36-0.94 12.98-2.7 17.37-3.88c3.49-0.94 5.53 0.56 2.95 3.78c-2.17 2.7-7.61 10.05-13.22 15.64"></path>
+<text x="5" y="20" font-size="20" fill="#999999">2</text><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#CC0000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M27.6 40.38c8.9 7.37 16.65 24.37 9.9 43.12c-2.57 7.14-6 8-11.25 0.5" marker-end="url(#TriangleRed)" marker-start="url(#ArrowRed)" ></path>
+
+
+
+</g><g transform="scale(1.3761467889908 1.3761467889908) translate(218, 0)">
+<path style="fill:none; fill-rule:evenodd; stroke:#aaaaaa;  stroke-width:1pt; stroke-linecap:round;" d="m 109 0 L 0 0 L 0 109 L 109 109 L 109 0"></path><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M15.79 24.01c2.4 0.84 4.88 0.62 7.36 0.18c5.36-0.94 12.98-2.7 17.37-3.88c3.49-0.94 5.53 0.56 2.95 3.78c-2.17 2.7-7.61 10.05-13.22 15.64"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M27.6 40.38c8.9 7.37 16.65 24.37 9.9 43.12c-2.57 7.14-6 8-11.25 0.5"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M13.69 68.37c1.18 1 2.71 0.6 4.29-0.47C28.5 60.75 35.25 56 47.25 47.5"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M61.99 15.62c0.95 0.95 1.26 2 1.26 3.93c0 8.19 0.01 52.89 0.01 58.45c0 9.88 2.24 11.5 17.49 11.5C95 89.5 96.89 87 96.89 79.4"></path>
+
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M15.79 24.01c2.4 0.84 4.88 0.62 7.36 0.18c5.36-0.94 12.98-2.7 17.37-3.88c3.49-0.94 5.53 0.56 2.95 3.78c-2.17 2.7-7.61 10.05-13.22 15.64"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M27.6 40.38c8.9 7.37 16.65 24.37 9.9 43.12c-2.57 7.14-6 8-11.25 0.5"></path>
+<text x="5" y="20" font-size="20" fill="#999999">3</text><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#CC0000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M13.69 68.37c1.18 1 2.71 0.6 4.29-0.47C28.5 60.75 35.25 56 47.25 47.5" marker-end="url(#TriangleRed)" marker-start="url(#ArrowRed)" ></path>
+
+
+</g><g transform="scale(1.3761467889908 1.3761467889908) translate(327, 0)">
+<path style="fill:none; fill-rule:evenodd; stroke:#aaaaaa;  stroke-width:1pt; stroke-linecap:round;" d="m 109 0 L 0 0 L 0 109 L 109 109 L 109 0"></path><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M15.79 24.01c2.4 0.84 4.88 0.62 7.36 0.18c5.36-0.94 12.98-2.7 17.37-3.88c3.49-0.94 5.53 0.56 2.95 3.78c-2.17 2.7-7.61 10.05-13.22 15.64"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M27.6 40.38c8.9 7.37 16.65 24.37 9.9 43.12c-2.57 7.14-6 8-11.25 0.5"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M13.69 68.37c1.18 1 2.71 0.6 4.29-0.47C28.5 60.75 35.25 56 47.25 47.5"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#aaaaaa; stroke-opacity:100%; stroke-width: 1.5pt; stroke-linejoin:round; stroke-linecap:round;" d="M61.99 15.62c0.95 0.95 1.26 2 1.26 3.93c0 8.19 0.01 52.89 0.01 58.45c0 9.88 2.24 11.5 17.49 11.5C95 89.5 96.89 87 96.89 79.4"></path>
+
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M15.79 24.01c2.4 0.84 4.88 0.62 7.36 0.18c5.36-0.94 12.98-2.7 17.37-3.88c3.49-0.94 5.53 0.56 2.95 3.78c-2.17 2.7-7.61 10.05-13.22 15.64"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M27.6 40.38c8.9 7.37 16.65 24.37 9.9 43.12c-2.57 7.14-6 8-11.25 0.5"></path>
+<path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#000000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M13.69 68.37c1.18 1 2.71 0.6 4.29-0.47C28.5 60.75 35.25 56 47.25 47.5"></path>
+<text x="5" y="20" font-size="20" fill="#999999">4</text><path style="fill:none; fill-opacity:0%; fill-rule:evenodd; stroke:#CC0000; stroke-opacity:100%; stroke-width: 3pt; stroke-linejoin:round; stroke-linecap:round;" d="M61.99 15.62c0.95 0.95 1.26 2 1.26 3.93c0 8.19 0.01 52.89 0.01 58.45c0 9.88 2.24 11.5 17.49 11.5C95 89.5 96.89 87 96.89 79.4" marker-end="url(#TriangleRed)" marker-start="url(#ArrowRed)" ></path>
+
+</g>
+
+</svg>  
+          
